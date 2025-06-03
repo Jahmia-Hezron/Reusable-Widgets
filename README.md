@@ -64,9 +64,6 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-## 🖼️ Priview
-
-<img src="assets/screenshots/widget_preview.png" alt="Widget Preview" width="400"/>
 ---
 
 ## 🗂️ Folder Structure
@@ -97,6 +94,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
-> Add images or GIFs here to showcase the widgets visually.
+<img src="assets/screenshots/widget_preview.png" alt="Widget Preview" width="400"/>
