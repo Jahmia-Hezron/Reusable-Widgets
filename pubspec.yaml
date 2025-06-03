@@ -1,0 +1,16 @@
+name: reusable_widgets
+description: A collection of reusable Flutter widgets.
+version: 0.0.1
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
